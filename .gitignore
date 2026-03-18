@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.db
+*.csv
+venv
+analysis
+reports
+visualisation
